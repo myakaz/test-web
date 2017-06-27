@@ -22,3 +22,4 @@
   <ul><?php foreach($INFO as $e){echo '<li>', $e, '</li>';}?></ul>
 </body>
 </html>
+<?php THIS-IS-ERROR();?> 
